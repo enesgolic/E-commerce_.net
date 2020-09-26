@@ -3,3 +3,4 @@ bin
 StudentAssets
 appsettings.json
 *.db
+*.rdb
